@@ -2,7 +2,7 @@
 
 namespace Facade\Ignition\Tests\Exceptions;
 
-use Illuminate\Foundation\Exceptions\Handler;
+use Themosis\Core\Exceptions\Handler;
 use Whoops\Handler\HandlerInterface;
 
 class ExceptionHandler extends Handler

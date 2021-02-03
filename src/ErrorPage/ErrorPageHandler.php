@@ -6,7 +6,7 @@ use Facade\FlareClient\Flare;
 use Facade\FlareClient\Report;
 use Facade\Ignition\IgnitionConfig;
 use Facade\IgnitionContracts\SolutionProviderRepository;
-use Illuminate\Foundation\Application;
+use Illuminate\Contracts\Foundation\Application;
 use Throwable;
 
 class ErrorPageHandler

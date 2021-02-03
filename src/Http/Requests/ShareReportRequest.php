@@ -2,7 +2,7 @@
 
 namespace Facade\Ignition\Http\Requests;
 
-use Illuminate\Foundation\Http\FormRequest;
+use Themosis\Core\Http\FormRequest;
 
 class ShareReportRequest extends FormRequest
 {

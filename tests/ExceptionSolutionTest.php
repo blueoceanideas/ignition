@@ -8,7 +8,7 @@ use Facade\Ignition\SolutionProviders\SolutionProviderRepository;
 use Facade\Ignition\Tests\Exceptions\AlwaysFalseSolutionProvider;
 use Facade\Ignition\Tests\Exceptions\AlwaysTrueSolutionProvider;
 use Facade\IgnitionContracts\BaseSolution;
-use Illuminate\Foundation\Auth\User;
+use Themosis\Core\Auth\User;
 use RuntimeException;
 
 class ExceptionSolutionTest extends TestCase

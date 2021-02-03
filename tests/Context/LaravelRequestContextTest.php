@@ -4,7 +4,7 @@ namespace Facade\Ignition\Tests\Context;
 
 use Facade\Ignition\Context\LaravelRequestContext;
 use Facade\Ignition\Tests\TestCase;
-use Illuminate\Foundation\Auth\User;
+use Themosis\Core\Auth\User;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use Symfony\Component\HttpFoundation\Request as SymfonyRequest;

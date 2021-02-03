@@ -4,7 +4,7 @@ namespace Facade\Ignition\Http\Controllers;
 
 use Facade\Ignition\Http\Requests\ExecuteSolutionRequest;
 use Facade\IgnitionContracts\SolutionProviderRepository;
-use Illuminate\Foundation\Validation\ValidatesRequests;
+use Themosis\Core\Validation\ValidatesRequests;
 
 class ExecuteSolutionController
 {

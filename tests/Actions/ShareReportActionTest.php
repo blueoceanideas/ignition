@@ -8,7 +8,7 @@ use Facade\Ignition\Actions\ShareReportAction;
 use Facade\Ignition\Tests\Mocks\FakeClient;
 use Facade\Ignition\Tests\TestCase;
 use Illuminate\Database\Eloquent\Model;
-use Illuminate\Foundation\Auth\User;
+use Themosis\Core\Auth\User;
 use Illuminate\Support\Arr;
 
 class ShareReportActionTest extends TestCase

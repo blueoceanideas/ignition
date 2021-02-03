@@ -7,7 +7,7 @@ use Facade\Ignition\Exceptions\ViewExceptionWithSolution;
 use Facade\IgnitionContracts\BaseSolution;
 use Facade\IgnitionContracts\ProvidesSolution;
 use Facade\IgnitionContracts\Solution;
-use Illuminate\Foundation\Auth\User;
+use Themosis\Core\Auth\User;
 use Illuminate\Support\Facades\View;
 
 class ViewTest extends TestCase
